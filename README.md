@@ -1,6 +1,4 @@
-# Hi there 👋
-
-### I'm Kavy Vachhani
+# Hello there I'm Kavy 👋
 
 - 💬 Ask me about Cybersecurity
 - 🌱 I’m currently learning B.tech in Information and Tehnology
